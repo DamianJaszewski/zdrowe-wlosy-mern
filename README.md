@@ -1,5 +1,5 @@
 # ZDROWE-WLOSY
-#### Zdrowe Włosy jest to baza danych zawierająca składy kosmetyków do pielęgnacji włosów. 
+> Zdrowe Włosy jest to baza danych zawierająca składy kosmetyków do pielęgnacji włosów. 
 
 ## Spis treści 
 * [Wprowadzenie](#wprowadzenie)
