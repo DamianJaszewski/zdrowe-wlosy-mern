@@ -70,7 +70,7 @@ Użytkownik może się logować za pomoca konta Google, lub podajac swoja nazwe 
 ### Strona Główna
 ![image](https://user-images.githubusercontent.com/35393983/152700417-07da38cf-3658-488a-a8a1-3fce29efcbd9.png)
 ### Strona logowania
-![image](https://user-images.githubusercontent.com/35393983/152699107-bf0f9772-8391-41b2-84fd-de4293a16c40.png)
+![image](https://user-images.githubusercontent.com/72083113/152701000-e0ec24f3-ef1b-4e4a-a6c7-98175e84b5bc.png)
 ### Autentykacja Google
 ![image](https://user-images.githubusercontent.com/35393983/152699636-3c4d675e-594e-4f74-84af-f64a3232ad32.png)
 ![image](https://user-images.githubusercontent.com/35393983/152699645-a0247604-30e9-4074-8689-38aa7b5a6a64.png)
@@ -81,5 +81,5 @@ Użytkownik może się logować za pomoca konta Google, lub podajac swoja nazwe 
 ### Wyszukiwanie
 ![image](https://user-images.githubusercontent.com/35393983/152699236-50de1dd9-b4f1-4f46-b3cf-463a762c1177.png)
 ### Edycja
-![image](https://user-images.githubusercontent.com/35393983/152700349-3fe8d960-9dc4-4c78-a796-140d0c8763f5.png)
 ![image](https://user-images.githubusercontent.com/35393983/152700359-b5266308-00cc-41e0-adf4-a840dcb94cf8.png)
+![image](https://user-images.githubusercontent.com/35393983/152700349-3fe8d960-9dc4-4c78-a796-140d0c8763f5.png)
